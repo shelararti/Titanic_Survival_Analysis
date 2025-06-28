@@ -91,9 +91,3 @@ To investigate whether factors such as passenger class, gender, age, and family 
 
 ---
 
-## 📬 Contact
-
-Feel free to reach out if you have ideas or feedback!
-
----
-
