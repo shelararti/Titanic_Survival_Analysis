@@ -55,6 +55,6 @@ This project explores:
 
 ## ✅ Dataset Source
 
-- [Kaggle Titanic Dataset](https://www.kaggle.com)
+- [Kaggle Dataset](https://www.kaggle.com/datasets/nowke9/ipldata)
 
 ---
